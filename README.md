@@ -20,3 +20,33 @@ Download the latest versions of PSM Software EXEs with one click!
 ![PSM EXEs Dashboard](https://via.placeholder.com/1200x600/2c3e50/ffffff?text=PSM+Latest+EXEs)
 
 ## 📁 File Structure
+
+
+
+## 🚀 Quick Start
+1. Clone/Download repo
+2. Open `index.html`
+3. All links work instantly!
+
+## 🔧 Tech Stack
+- HTML5 • CSS3 • Vanilla JS
+- Font Awesome Icons
+- Netlify Hosting
+
+## 📱 Demo Links
+- **Live**: https://psmlatestexes.netlify.app/
+- **Desktop**: Grid layout
+- **Mobile**: Stacked cards
+
+## 📈 Add More EXEs
+**Copy this HTML block** inside `.cards-grid`:
+
+```html
+<div class="card">
+  <div class="logo-placeholder"><span>NEW-EXE</span></div>
+  <h3 class="card-title">Download NEW EXE</h3>
+  <a href="YOUR-DRIVE-LINK" class="download-btn" download>
+    <i class="fas fa-download btn-icon"></i>
+    <span class="btn-text">Download EXE</span>
+  </a>
+</div>
