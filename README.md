@@ -16,8 +16,6 @@ Download the latest versions of PSM Software EXEs with one click!
 - 🔗 **Direct Google Drive Links**
 - 🖥️ **Fast Loading** - Optimized CSS/JS
 
-## 🖼️ Screenshots
-![PSM EXEs Dashboard](https://via.placeholder.com/1200x600/2c3e50/ffffff?text=PSM+Latest+EXEs)
 
 ## 📁 File Structure
 
